@@ -176,7 +176,7 @@ span{
     font-weight: 700;
 }
 .hero{
-    background-image: url('hero_image2.jpg');
+    background-image: url('Hero_image2.jpg');
     height: 400px;
     background-size: cover;
     display: flex;
